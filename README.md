@@ -1,6 +1,6 @@
 # SkillSprint — Microlearning for Career Skills
 
-SkillSprint is a microlearning concept that helps students and early-career professionals build practical career skills in 5 minutes a day.
+SkillSprint is a microlearning concept that helps students and early-career professionals build practical career skills in 15 minutes a day.
 
 🔗 Live microsite: https://skillsprint-tau.vercel.app/
 
