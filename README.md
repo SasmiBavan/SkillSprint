@@ -6,7 +6,7 @@ SkillSprint is a microlearning concept that helps students and early-career prof
 
 ## Product highlights
 - Skill paths (Excel, interview prep, email writing, presentations, Canva)
-- Daily 5-minute sprints
+- Daily 15-minute sprints
 - Gamified streaks and progress
 - Templates and downloadable resources
 
